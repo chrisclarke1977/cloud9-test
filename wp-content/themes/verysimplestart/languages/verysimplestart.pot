@@ -1,0 +1,1561 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Very Simple Start\n"
+"POT-Creation-Date: 2015-09-30 19:00+0200\n"
+"PO-Revision-Date: 2015-09-07 11:32+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__;esc_attr__;esc_attr_e;_x:1,2c\n"
+"X-Poedit-SearchPath-0: E:/server/verysimplestart/wp-content/themes/verysimplestart\n"
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/comments.php:35
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/comments.php:53
+msgid "Comment navigation"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/comments.php:36
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/comments.php:54
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/comments.php:37
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/content-none.php:19
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/content-page.php:18
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/content-search.php:32
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/content-single.php:29
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/content.php:34
+msgid "Pages:"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/content-page.php:25
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:118
+msgid "Edit"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/footer.php:22
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/footer.php:22
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/footer.php:24
+#, php-format
+msgid "Theme: %2$s by %1$s."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/functions.php:56
+msgid "Primary Menu"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/functions.php:91
+msgid "Sidebar"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/functions.php:104
+msgid "Footer "
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/functions.php:227
+msgid "Create your menu here"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/header.php:31
+msgid "Skip to content"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:16
+msgid "Site title/tagline/logo"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:49
+msgid "General"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:66
+msgid "Upload your favicon"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:79
+msgid "Header area"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:85
+msgid "Header type"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:88
+msgid "You can select your header type from here. After that, continue below to the next two tabs (Header Slider and Header Image) and configure them."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:103
+msgid "Front page header type"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:105
+msgid "Select the header type for your front page"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:107
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:129
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1648
+msgid "Full screen slider"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:108
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:130
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1649
+msgid "Image"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:109
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:131
+msgid "No header (only menu)"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:125
+msgid "Site header type"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:127
+msgid "Select the header type for all pages except the front page"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:139
+msgid "Header Slider"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:140
+msgid "You can add up to 5 images in the slider. Make sure you select where to display your slider from the Header Type section found above. You can also add a Call to action button (scroll down to find the options)"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:149
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:166
+msgid "4000"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:156
+msgid "Slider speed"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:159
+msgid "Slider speed in miliseconds. Use 0 to disable [default: 4000]"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:173
+msgid "Text slider speed"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:176
+msgid "Text slider speed in miliseconds [default: 4000]"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:190
+msgid "Stop the text slider?"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:203
+msgid "First slide"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:221
+msgid "Upload your first image for the slider"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:233
+msgid "Customize Your Site With Ease"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:240
+msgid "Title for the first slide"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:250
+msgid "Create the site you want with the powerful customization options"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:257
+msgid "Subtitle for the first slide"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:271
+msgid "Second slide"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:289
+msgid "Upload your second image for the slider"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:301
+msgid "Start Your Website in Minutes"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:308
+msgid "Title for the second slide"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:318
+msgid "Try Very Simple Start!"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:325
+msgid "Subtitle for the second slide"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:339
+msgid "Third slide"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:357
+msgid "Upload your third image for the slider"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:376
+msgid "Title for the third slide"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:393
+msgid "Subtitle for the third slide"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:407
+msgid "Fourth slide"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:425
+msgid "Upload your fourth image for the slider"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:444
+msgid "Title for the fourth slide"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:461
+msgid "Subtitle for the fourth slide"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:475
+msgid "Fifth slide"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:493
+msgid "Upload your fifth image for the slider"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:512
+msgid "Title for the fifth slide"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:529
+msgid "Subtitle for the fifth slide"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:543
+msgid "Call to action button"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:559
+msgid "URL for your call to action button"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:568
+msgid "Start Now"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:575
+msgid "Text for your call to action button"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:585
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:624
+msgid "Menu style"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:603
+msgid "Sticky menu"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:606
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1692
+msgid "Sticky"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:607
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1693
+msgid "Static"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:627
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1718
+msgid "Inline"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:628
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1719
+msgid "Centered (menu and site logo)"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:645
+msgid "Header background size"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:648
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1666
+msgid "Cover"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:649
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1667
+msgid "Contain"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:665
+msgid "Header height [default: 300px]"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:684
+msgid "Disable the overlay?"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:702
+msgid "Upload your logo"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:714
+msgid "Blog options"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:726
+msgid "Layout"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:743
+msgid "Blog layout"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:747
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1704
+msgid "Classic"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:748
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1705
+msgid "Full width (no sidebar)"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:749
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1706
+msgid "Masonry (grid style)"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:764
+msgid "Full width single posts?"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:777
+msgid "Content/excerpt"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:795
+msgid "Check this box to display the full content of your posts on the home page."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:811
+msgid "Check this box to display the full content of your posts on all archives."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:828
+msgid "Excerpt lenght"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:829
+msgid "Choose your excerpt length. Default: 55 words"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:845
+msgid "Meta"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:863
+msgid "Hide post meta on index, archives?"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:880
+msgid "Hide post meta on singles?"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:893
+msgid "Featured images"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:910
+msgid "Check this box to hide featured images on index, archives etc."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:926
+msgid "Check this box to hide featured images on single posts"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:939
+msgid "Footer"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:955
+msgid "Footer widget area"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:957
+msgid "Select the number of widget areas you want in the footer. After that, go to Appearance > Widgets and add your widgets."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:959
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1678
+msgid "One"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:960
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1679
+msgid "Two"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:961
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1680
+msgid "Three"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:962
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1681
+msgid "Four"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:973
+msgid "Fonts"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:975
+msgid "Google Fonts can be found here: google.com/fonts. See the documentation if you need help in selecting Google Fonts: dessky.com/documentation/verysimplestart"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:986
+msgid "Body fonts"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1003
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1051
+msgid "Font name/style/sets"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1020
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1068
+msgid "Font family"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1034
+msgid "Headings fonts"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1082
+msgid "Font sizes"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1100
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1342
+msgid "Site title"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1120
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1363
+msgid "Site description"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1140
+msgid "Menu items"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1160
+msgid "H1 font size"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1180
+msgid "H2 font size"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1200
+msgid "H3 font size"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1220
+msgid "H4 font size"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1240
+msgid "H5 font size"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1260
+msgid "H6 font size"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1280
+msgid "Body font size"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1302
+msgid "Primary color"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1322
+msgid "Menu background"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1383
+msgid "Top level menu items"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1403
+msgid "Sub-menu items"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1422
+msgid "Sub-menu background"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1442
+msgid "Header slider text"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1462
+msgid "Body text"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1482
+msgid "Sidebar background"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1502
+msgid "Sidebar color"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1522
+msgid "Footer widget area background"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1542
+msgid "Footer widget area color"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1562
+msgid "Footer background"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1582
+msgid "Footer color"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1601
+msgid "Rows overlay"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1616
+msgid "Theme Options"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1618
+msgid "1. Documentation for Very Simple Start can be found "
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1618
+msgid "2. A full theme demo can be found "
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/customizer.php:1650
+msgid "Nothing (only menu)"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/extras.php:52
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/page-builder.php:43
+msgid "Very Simple Start Theme Widgets"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/page-builder.php:56
+msgid "Bottom Border Color"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/page-builder.php:61
+msgid "Top/bottom padding"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/page-builder.php:63
+msgid "Top and bottom padding for this row [default: 100px]"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/page-builder.php:67
+msgid "Center align the content?"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/page-builder.php:69
+msgid "This may or may not work. It depends on the widget styles."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/page-builder.php:73
+msgid "Background Color"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/page-builder.php:75
+msgid "Background color of the row."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/page-builder.php:79
+msgid "Color"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/page-builder.php:81
+msgid "Color of the row."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/page-builder.php:85
+msgid "Background Image"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/page-builder.php:87
+msgid "Background image of the row."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/page-builder.php:91
+msgid "Row Layout"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/page-builder.php:94
+msgid "Standard"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/page-builder.php:95
+msgid "Full Width"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/page-builder.php:96
+msgid "Full Width Stretched"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/page-builder.php:101
+msgid "Mobile padding"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/page-builder.php:103
+msgid "Here you can select a top/bottom row padding for screen sizes < 1024px"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/page-builder.php:105
+msgid "Default"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/page-builder.php:106
+msgid "0"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/page-builder.php:107
+msgid "15px"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/page-builder.php:108
+msgid "30px"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/page-builder.php:109
+msgid "45px"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/page-builder.php:114
+msgid "Row Class"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/page-builder.php:116
+msgid "Add your own class for this row"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/page-builder.php:120
+msgid "Columns padding"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/page-builder.php:122
+msgid "Remove padding between columns for this row?"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:27
+msgid "Older posts"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:31
+msgid "Newer posts"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:51
+msgid "Post navigation"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:81
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:86
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:94
+msgid "Leave a comment"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:94
+msgid "1 Comment"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:94
+msgid "% Comments"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:98
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:113
+msgid ", "
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:100
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:115
+#, php-format
+msgid " %1$s"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:135
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:137
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:139
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:141
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:141
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:143
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:143
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:145
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:145
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:148
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:150
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:152
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:154
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:167
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:171
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/template-tags.php:173
+msgid "Archives"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:226
+msgid "Install Required Plugins"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:227
+msgid "Install Plugins"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:228
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:229
+msgid "Something went wrong."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:240
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:241
+msgid "Return to the dashboard"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:242
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:2107
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:243
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:244
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:245
+msgid "Dismiss this notice"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:595
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:2337
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:1281
+msgid "Private Repository"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:1285
+msgid "Pre-Packaged"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:1290
+msgid "WordPress Repository"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:1293
+msgid "Required"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:1293
+msgid "Recommended"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:1296
+msgid "Not Installed"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:1299
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:1481
+#, php-format
+msgid "No plugins to install or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:1497
+msgid "Plugin"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:1498
+msgid "Source"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:1499
+msgid "Type"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:1500
+msgid "Status"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:1518
+msgid "Install"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:1519
+msgid "Activate"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:1630
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:1746
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:2090
+msgid "Install package not available."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:2091
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:2092
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:2093
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:2094
+msgid "Plugin install failed."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:2095
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:2106
+msgid "Plugin activation failed."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:2229
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:2230
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:2234
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:2235
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:2235
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:2242
+msgid "Show Details"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:2235
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:2242
+msgid "Hide Details"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:2236
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:2237
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:2241
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:2242
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:2243
+msgid "All installations have been completed."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/plugins/class-tgm-plugin-activation.php:2244
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/contact-info.php:6
+msgid "Display your contact info"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/contact-info.php:7
+msgid "Very Simple Start: Contact info"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/contact-info.php:24
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-call-to-action.php:22
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-clients.php:25
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-team.php:26
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-facts.php:36
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-latest-news.php:22
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-services-type-a.php:31
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-services-type-b.php:31
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-skills.php:28
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-testimonials.php:25
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/video-widget.php:21
+msgid "Title"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/contact-info.php:28
+msgid "Enter your address"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/contact-info.php:31
+msgid "Enter your phone number"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/contact-info.php:34
+msgid "Enter your email address"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-call-to-action.php:6
+msgid "Display a call to action block."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-call-to-action.php:7
+msgid "Very Simple Start FP: Call to action"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-call-to-action.php:24
+msgid "Enter your call to action."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-call-to-action.php:26
+msgid "Link for the button"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-call-to-action.php:28
+msgid "Title for the button"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-call-to-action.php:31
+msgid "Display the button inline with the text?"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-clients.php:6
+msgid "Display your clients list."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-clients.php:7
+msgid "Very Simple Start FP: Clients"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-clients.php:23
+msgid "In order to display this widget, you must first add some clients from your admin area. Set your client logos as featured images."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-clients.php:28
+msgid "Number of clients to show (-1 shows all of them):"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-clients.php:30
+msgid "The URL for your button [In case you want a button below your clients block]"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-clients.php:32
+msgid "The text for the button [Defaults to <em>See all our clients</em> if left empty]"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-clients.php:34
+msgid "Enter the slug for your category or leave empty to show all clients."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-clients.php:128
+msgid "See all our clients"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-team.php:6
+msgid "Display your team members in a stylish way."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-team.php:7
+msgid "Very Simple Start FP: Team"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-team.php:24
+msgid "In order to display this widget, you must first add some team members from the dashboard. Add as many as you want and the theme will automatically display them all."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-team.php:29
+msgid "Number of team members to show (-1 shows all of them):"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-team.php:31
+msgid "Enter an URL here if you want to section to link somewhere."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-team.php:33
+msgid "The text for the button [Defaults to <em>See all our team members</em> if left empty]"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-team.php:35
+msgid "Enter the slug for your category or leave empty to show all team members."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-team.php:38
+msgid "Center the team members? (use only if you have 1 or 2 team members)"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-team.php:169
+msgid "See all our team members"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-facts.php:7
+msgid "Show your visitors some facts about your company."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-facts.php:8
+msgid "Very Simple Start FP: Facts"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-facts.php:34
+msgid "You can find a list of the available icons "
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-facts.php:34
+msgid "here."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-facts.php:34
+msgid "Usage example: <strong>fa-android</strong>"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-facts.php:42
+msgid "First fact name"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-facts.php:47
+msgid "First fact value"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-facts.php:52
+msgid "First fact icon"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-facts.php:58
+msgid "Second fact name"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-facts.php:63
+msgid "Second fact value"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-facts.php:68
+msgid "Second fact icon"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-facts.php:74
+msgid "Third fact name"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-facts.php:79
+msgid "Third fact value"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-facts.php:84
+msgid "Third fact icon"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-facts.php:90
+msgid "Fourth fact name"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-facts.php:95
+msgid "Fourth fact value"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-facts.php:100
+msgid "Fourth fact icon"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-latest-news.php:6
+msgid "Show the latest news from your blog."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-latest-news.php:7
+msgid "Very Simple Start FP: Latest News"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-latest-news.php:26
+msgid "Enter the slug for your category or leave empty to show posts from all categories."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-latest-news.php:29
+msgid "Add the text for the button here if you want to change the default <em>See all our news</em>"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-latest-news.php:79
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-latest-news.php:81
+msgid "See all our news"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-list.php:11
+msgid "A simple list widget"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-list.php:13
+msgid "Very Simple Start FP: List"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-list.php:63
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-social.php:57
+msgid "Title:"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-list.php:66
+msgid "Add a bit of text here. It will be displayed."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-list.php:69
+msgid "Add your list items here. One item per row, start each row with <strong>^</strong>. Example: <strong>^ list item </strong>"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-list.php:72
+msgid "Call to action button URL:"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-list.php:75
+msgid "Call to action button text:"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-services-type-a.php:11
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-services-type-b.php:11
+msgid "Show what services you are able to provide."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-services-type-a.php:12
+msgid "Very Simple Start FP: Services Type A"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-services-type-a.php:29
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-services-type-b.php:29
+msgid "In order to display this widget, you must first add some services from your admin area."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-services-type-a.php:34
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-services-type-b.php:34
+msgid "Number of services to show (-1 shows all of them):"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-services-type-a.php:36
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-services-type-b.php:36
+msgid "The URL for your button [In case you want a button below your services block]"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-services-type-a.php:38
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-services-type-b.php:38
+msgid "The text for the button [Defaults to <em>See all our services</em> if left empty]"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-services-type-a.php:40
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-services-type-b.php:40
+msgid "Enter the slug for your category or leave empty to show all services."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-services-type-a.php:43
+msgid "Display services in two columns instead of three?"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-services-type-a.php:149
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-services-type-b.php:164
+msgid "See all our services"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-services-type-b.php:12
+msgid "Very Simple Start FP: Services type B"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-services-type-b.php:43
+msgid "Number of columns:"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-skills.php:6
+msgid "Show your visitors some of your skills."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-skills.php:7
+msgid "Very Simple Start FP: Skills"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-skills.php:34
+msgid "First skill name"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-skills.php:39
+msgid "First skill value"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-skills.php:45
+msgid "Second skill name"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-skills.php:50
+msgid "Second skill value"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-skills.php:56
+msgid "Third skill name"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-skills.php:61
+msgid "Third skill value"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-skills.php:67
+msgid "Fourth skill name"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-skills.php:72
+msgid "Fourth skill value"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-social.php:5
+msgid "Display your social profile on your front page"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-social.php:6
+msgid "Very Simple Start FP: Social Profile"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-social.php:52
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-social.php:60
+msgid "In order to display your social icons in a widget, all you need to do is go to <strong>Appearance > Menus</strong> and create a menu containing links to your social profiles, then assign that menu here. Supported networks: Facebook, Twitter, Google Plus, Instagram, Dribble, Vimeo, Linkedin, Youtube, Flickr, Pinterest, Tumblr, Foursquare, Behance."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-social.php:62
+msgid "Select your social menu:"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-social.php:64
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-testimonials.php:6
+msgid "Display your testimonials in a slider."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-testimonials.php:7
+msgid "Very Simple Start FP: Testimonials"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-testimonials.php:23
+msgid "In order to display this widget, you must first add some testimonials from your admin area."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-testimonials.php:28
+msgid "Number of testimonials to show (-1 shows all of them):"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-testimonials.php:30
+msgid "The URL for your button [In case you want a button below your testimonials block]"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-testimonials.php:32
+msgid "The text for the button [Defaults to <em>See all our testimonials</em> if left empty]"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-testimonials.php:34
+msgid "Enter the slug for your category or leave empty to show all testimonials."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/fp-testimonials.php:131
+msgid "See all our testimonials"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/video-widget.php:6
+msgid "Display a video from Youtube, Vimeo etc."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/video-widget.php:7
+msgid "Very Simple Start: Video"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/widgets/video-widget.php:25
+msgid "Paste the URL of the video (only from a network that supports oEmbed, like Youtube, Vimeo etc.):"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/theme-options.php:19
+msgid "Theme Options"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/theme-options.php:23
+msgid "Welcome to the Theme Options page!"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/theme-options.php:26
+msgid "Here you may begin with the site customizations."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/theme-options.php:27
+msgid "Please click on the big blue button below to get started."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/theme-options.php:28
+msgid "Customize Your Site"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/theme-options.php:31
+msgid "Documentation and Demo"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/theme-options.php:33
+msgid "Theme Documentation"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/theme-options.php:34
+msgid "Theme Demo"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/theme-options.php:38
+msgid "How to get Theme Support?"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/theme-options.php:39
+msgid "Unfortunately we are a small team of developers and right now we do not have necessary resources to provide free and high quality support on the WordPress.org forums. In order to get support from Dessky Team please purchase <a href=\"http://dessky.com/shop/one-year-support/\" target=\"_blank\">One Year Theme Support package</a> and <a href=\"http://dessky.com/tickets/\" target=\"_blank\">post a ticket</a> afterwards. We would be more than happy to help you."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/theme-options.php:40
+msgid "Where to report Bugs?"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/theme-options.php:41
+msgid "Bug reports for the theme are welcomed on WordPress.org Forums. Dessky Team will respond only to the posts that are properly qualified as bugs and fix them as soon as possible."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/theme-options.php:35
+msgid "Order PRO Theme"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/theme-options.php:39
+msgid "Does this theme works with WooCommerce?"
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/theme-options.php:40
+msgid "WooCommerce is supported only in the <a target="_blank" href=\"http://dessky.com/theme/very-simple-start-pro\">PRO theme version</a>. By purchasing PRO theme you will also get Theme Support for One Year. You can purchase PRO theme on <a target=\"_blank\" href=\"http://dessky.com/theme/very-simple-start-pro\">this page</a>."
+msgstr ""
+
+#: E:\server\verysimplestart\wp-content\themes\verysimplestart/inc/theme-options.php:47
+msgid "If you like this theme, please don&rsquo;t forget to rate it!"
+msgstr ""
+

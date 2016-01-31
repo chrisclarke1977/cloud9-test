@@ -1,0 +1,34 @@
+Changelog
+
+26 Januar 2016 - 1.5
+--------------------------------------
+- Replacing full screen slider with the header image as the default load;
+
+07 Januar 2016 - 1.4
+--------------------------------------
+- Minor Theme name change in the style.css;
+
+06 Januar 2016 - 1.3
+--------------------------------------
+- Minor Theme URI change in the style.css;
+- Third party scripts and styles now use their own handle rather than using a prefix;
+
+05 Januar 2016 - 1.3
+--------------------------------------
+- Minor Theme URI change in the style.css;
+
+30 December 2015 - 1.2
+--------------------------------------
+- 'Create your menu here' link is now only shown to users who can edit theme options;
+- the_title_attribute() is now used as attribute value across the website instead the_title();
+
+28 December 2015 - 1.1
+--------------------------------------
+- added masonry grid and TGM plugin Attributions with license details in readme.txt file;
+- removing favicon theme option in favor of wordpress core favicon feature;
+- masonry-init dependency change in functions.php;
+- adding non minified version of script.js in file /js/scripts.original.not.minified.js;
+
+10 September 2015 - 1.0
+--------------------------------------
+- Initial release.
